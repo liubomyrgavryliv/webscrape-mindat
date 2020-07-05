@@ -1,17 +1,27 @@
 [
     {
+        "id": "min-29206",
+        "mineral_name": "10 Å Phase",
         "formula": "Mg, Si, O, H"
     },
     {
+        "id": "min-47008",
+        "mineral_name": "Abellaite",
         "formula": "NaPb<sub>2</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)"
     },
     {
+        "id": "min-1",
+        "mineral_name": "Abelsonite",
         "formula": "Ni(C<sub>31</sub>H<sub>32</sub>N<sub>4</sub>)"
     },
     {
+        "id": "min-3",
+        "mineral_name": "Abernathyite",
         "formula": "K(UO<sub>2</sub>)(AsO<sub>4</sub>) · 3H<sub>2</sub>O"
     },
     {
+        "id": "min-4",
+        "mineral_name": "Abhurite",
         "formula": "Sn<sub>21</sub>Cl<sub>16</sub>(OH)<sub>14</sub>O<sub>6</sub>"
     }
 ]
